@@ -1,0 +1,9 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const ADJUST_QTY = "ADJUST_QTY";
+export const LOAD_CURRENT_ITEM = "LOAD_CURRENT_ITEM";
+export const LOAD_DATA = "LOAD_DATA";
+export const CATEGORY_TYPE = "CATEGORY_TYPE";
+export const CURRENCY_TYPE = "CURRENCY_TYPE";
+export const REMOVE_CURRENT_ITEM = "REMOVE_CURRENT_ITEM";
+export const SUM_PRICE = "SUM_PRICE";
